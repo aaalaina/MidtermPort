@@ -115,7 +115,7 @@ p{
     padding: 80px;
     background-color: #2878fe;
     color: white;
-    height: 3150px;
+    height: 3100px;
 }
 
 .worksample-container {
@@ -130,6 +130,7 @@ p{
     width: 100%;
     height: fit-content;
     /* margin: auto; */
+    padding: 0;
     }
     
 .pditem { 
